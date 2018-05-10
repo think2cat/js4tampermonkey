@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         HideSinaFlashInstallTips
 // @name:zh-CN   隐藏新浪微博Flash安装提示
-// @namespace    BlueFire
+// @namespace    cat
 // @version      0.1
 // @description  去掉新浪微博弹出的提示“我们的产品需要安装flashplayer 10或更高版本”
 // @author       Gavin
 // @include      http://blog.sina.com.cn/*
-// @run-at       document-start
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
