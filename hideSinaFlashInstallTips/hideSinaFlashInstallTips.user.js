@@ -7,6 +7,8 @@
 // @author       Gavin
 // @include      http://blog.sina.com.cn/*
 // @run-at       document-end
+// @website      https://21ido.com/
+// @supportURL   https://github.com/think2cat/js4tampermonkey/blob/master/hideSinaFlashInstallTips/hideSinaFlashInstallTips.user.js
 // ==/UserScript==
 
 (function() {
